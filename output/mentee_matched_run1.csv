@@ -1,0 +1,224 @@
+﻿mentee_id,name,no_1,no_2,no_3,no_4,no_5,degree,mentor_response,email,note,mentor,match_note,mentor_name,mentor_email
+M001,name0,A08,A43,A49,A26,A67,MSc,,mentee0@email.com,,A49,"single match, run 1",name46,mentor46@email.com
+M002,name1,B12,E01,E25,E20,E12,MSc,,mentee1@email.com,,B12,"select from 2, run 1",name75,mentor75@email.com
+M003,name2,A60,A46,A15,A39,E21,MSc,,mentee2@email.com,,A39,"single match, run 1",name36,mentor36@email.com
+M004,name3,E20,E18,E01,E12,E25,MSc,,mentee3@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M007,name6,E25,E27,E29,E18,E01,MSc,,mentee6@email.com,,E25,"single match, run 1",name194,mentor194@email.com
+M008,name7,D18,B24,D10,,,MSc,,mentee7@email.com,,D18,"select from 3, run 1",name167,mentor167@email.com
+M009,name8,A67,A43,A52,A66,A53,MSc,,mentee8@email.com,,A67,"select from 3, run 1",name63,mentor63@email.com
+M010,name9,E33,B39,E29,E27,B42,MSc,,mentee9@email.com,,E33,"single match, run 1",name202,mentor202@email.com
+M011,name10,E18,E25,E01,E12,E21,MSc,,mentee10@email.com,,E18,"single match, run 1",name188,mentor188@email.com
+M012,name11,E21,E27,E25,E13,E33,MSc,,mentee11@email.com,,E27,"single match, run 1",name196,mentor196@email.com
+M013,name12,B39,B01,B06,B18,B23,MSc,,mentee12@email.com,,B06,"select from 2, run 1",name69,mentor69@email.com
+M014,name13,E01,E25,E12,E20,E33,MSc,,mentee13@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M015,name14,A43,A67,A20,A26,A66,MSc,,mentee14@email.com,,A43,"select from 3, run 1",name40,mentor40@email.com
+M016,name15,E20,E11,,,,MSc,,mentee15@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M018,name17,E12,A47,A56,A49,E13,MSc,,mentee17@email.com,,E12,"select from 4, run 1",name182,mentor182@email.com
+M019,name18,E18,E20,E01,E25,E21,MSc,,mentee18@email.com,,E18,"single match, run 1",name188,mentor188@email.com
+M020,name19,E29,E33,E34,E32,E27,MSc,,mentee19@email.com,,E33,"single match, run 1",name202,mentor202@email.com
+M021,name20,B32,B48,B16,B01,B44,MSc,,mentee20@email.com,,B32,"select from 2, run 1",name94,mentor94@email.com
+M022,name21,A45,A07,A59,A38,A51,MSc,,mentee21@email.com,,A45,"select from 2, run 1",name42,mentor42@email.com
+M023,name22,A15,A39,A58,A66,A42,MSc,,mentee22@email.com,,A39,"select from 2, run 1",name36,mentor36@email.com
+M024,name23,A67,A43,A48,A06,A33,MSc,,mentee23@email.com,,A48,"single match, run 1",name45,mentor45@email.com
+M025,name24,E29,E30,E01,C13,E35,MSc,,mentee24@email.com,,E29,"single match, run 1",name198,mentor198@email.com
+M026,name25,D09,D02,D22,D13,D01,MSc,,mentee25@email.com,,D09,"select from 4, run 1",name158,mentor158@email.com
+M027,name26,E29,E01,A43,E18,E20,MSc,,mentee26@email.com,,E29,"single match, run 1",name198,mentor198@email.com
+M028,name27,A43,A67,A47,A38,A48,MSc,,mentee27@email.com,,A47,"single match, run 1",name44,mentor44@email.com
+M029,name28,A25,A23,A24,A26,A27,MSc,,mentee28@email.com,,A25,"select from 4, run 1",name22,mentor22@email.com
+M031,name30,E01,E12,E18,E25,E20,MSc,,mentee30@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M032,name31,E20,E18,E25,E12,E01,MSc,,mentee31@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M033,name32,E29,E28,E05,E27,E25,MSc,,mentee32@email.com,,E28,"select from 2, run 1",name197,mentor197@email.com
+M034,name33,B01,C11,B42,B41,B57,MSc,,mentee33@email.com,,B01,"select from 4, run 1",name64,mentor64@email.com
+M035,name34,B32,B01,B39,B49,B08,MSc,,mentee34@email.com,,B08,"single match, run 1",name71,mentor71@email.com
+M036,name35,E12,E01,E20,E18,E13,MSc,,mentee35@email.com,,E01,"single match, run 2",name171,mentor171@email.com
+M037,name36,A36,A34,A37,A33,A04,MSc,,mentee36@email.com,,A36,"select from 2, run 1",name33,mentor33@email.com
+M038,name37,A16,A65,A31,A06,A07,MSc,,mentee37@email.com,,A16,"select from 3, run 1",name15,mentor15@email.com
+M039,name38,B39,B14,E08,B06,B34,MSc,,mentee38@email.com,,B39,"select from 2, run 1",name100,mentor100@email.com
+M040,name39,A46,A02,A61,A64,A65,MSc,,mentee39@email.com,,A61,"single match, run 1",name58,mentor58@email.com
+M041,name40,B53,D13,D09,D22,A18,MSc,,mentee40@email.com,,D22,"single match, run 2",name170,mentor170@email.com
+M042,name41,A43,A67,A48,A54,A46,MSc,,mentee41@email.com,,A67,"single match, run 1",name63,mentor63@email.com
+M043,name42,E28,E29,E27,E05,E10,MSc,,mentee42@email.com,,E10,"single match, run 1",name180,mentor180@email.com
+M044,name43,E20,E12,E18,E13,E01,MSc,,mentee43@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M045,name44,A43,A66,A67,A42,A52,MSc,,mentee44@email.com,,A52,"single match, run 2",name49,mentor49@email.com
+M046,name45,D13,D08,D09,D01,D02,MSc,,mentee45@email.com,,D13,"select from 2, run 1",name162,mentor162@email.com
+M047,name46,E35,E33,E34,E16,E32,MSc,,mentee46@email.com,,E34,"single match, run 1",name203,mentor203@email.com
+M048,name47,A05,A36,A54,,,MSc,,mentee47@email.com,,A54,"single match, run 1",name51,mentor51@email.com
+M049,name48,A18,A41,E20,A64,A15,MSc,,mentee48@email.com,,A18,"single match, run 1",name16,mentor16@email.com
+M050,name49,E27,E33,E16,E29,E20,MSc,,mentee49@email.com,,E27,"single match, run 1",name196,mentor196@email.com
+M052,name51,A07,A16,A15,A31,A67,MSc,,mentee51@email.com,,A07,"single match, run 1",name6,mentor6@email.com
+M054,name53,A67,A66,A43,A50,A49,MSc,,mentee53@email.com,,A50,"single match, run 1",name47,mentor47@email.com
+M055,name54,A60,A64,,,,MSc,,mentee54@email.com,,A60,"select from 2, run 1",name57,mentor57@email.com
+M056,name55,A01,,A07,A16,A10,MSc,,mentee55@email.com,,A01,"single match, run 1",name0,mentor0@email.com
+M057,name56,E29,E21,E08,E16,E27,MSc,,mentee56@email.com,,E16,"single match, run 1",name186,mentor186@email.com
+M058,name57,A30,A42,B55,A16,D01,MSc,,mentee57@email.com,,A30,"select from 3, run 1",name27,mentor27@email.com
+M059,name58,A43,A66,A67,A52,A53,MSc,,mentee58@email.com,,A66,"select from 2, run 2",name62,mentor62@email.com
+M060,name59,E01,E25,E27,E18,E12,MSc,,mentee59@email.com,,E27,"single match, run 1",name196,mentor196@email.com
+M062,name61,E21,E20,E18,E25,E27,MSc,,mentee61@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M063,name62,C07,C11,C12,C03,C02,MSc,,mentee62@email.com,,C07,"select from 2, run 1",name127,mentor127@email.com
+M064,name63,E18,E19,E21,E22,E25,MSc,,mentee63@email.com,,E21,"single match, run 1",name191,mentor191@email.com
+M065,name64,E01,E25,E18,E12,E20,MSc,,mentee64@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M066,name65,E12,E01,E25,E18,E20,MSc,,mentee65@email.com,,E12,"single match, run 1",name182,mentor182@email.com
+M067,name66,A36,A56,A35,,,MSc,,mentee66@email.com,,A56,"single match, run 1",name53,mentor53@email.com
+M068,name67,E20,E25,E18,E12,E13,MSc,,mentee67@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M069,name68,A38,A44,A09,A06,A10,MSc,,mentee68@email.com,,A09,"single match, run 1",name8,mentor8@email.com
+M070,name69,B01,E26,B48,E01,E06,MSc,,mentee69@email.com,,B48,"single match, run 2",name109,mentor109@email.com
+M071,name70,E01,E13,E19,E18,E25,MSc,,mentee70@email.com,,E13,"single match, run 1",name183,mentor183@email.com
+M072,name71,A67,A43,A52,A24,A66,MSc,,mentee71@email.com,,A24,"single match, run 2",name21,mentor21@email.com
+M073,name72,E25,E12,E20,E01,E18,MSc,,mentee72@email.com,,E12,"single match, run 1",name182,mentor182@email.com
+M075,name74,C20,E16,C28,B14,C03,MSc,,mentee74@email.com,,E16,"single match, run 1",name186,mentor186@email.com
+M076,name75,A43,A67,A26,A47,A20,MSc,,mentee75@email.com,,A26,"single match, run 1",name23,mentor23@email.com
+M077,name76,C14,A18,B34,B13,C01,MSc,,mentee76@email.com,,C14,"select from 4, run 1",name134,mentor134@email.com
+M078,name77,E18,E22,E21,E19,E20,MSc,,mentee77@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+M079,name78,A07,A16,A08,A15,A01,MSc,,mentee78@email.com,,A07,"select from 2, run 1",name6,mentor6@email.com
+M080,name79,B46,D16,B59,B49,B48,MSc,,mentee79@email.com,,B59,"select from 2, run 1",name120,mentor120@email.com
+M081,name80,C28,C30,E13,E05,C17,MSc,,mentee80@email.com,,C28,"select from 3, run 1",name147,mentor147@email.com
+M082,name81,A55,A64,A60,A40,,MSc,,mentee81@email.com,,A55,"select from 2, run 1",name52,mentor52@email.com
+M083,name82,E20,E01,E12,E06,E21,MSc,,mentee82@email.com,,E06,"single match, run 1",name176,mentor176@email.com
+M084,name83,E27,E21,E12,E13,E18,MSc,,mentee83@email.com,,E21,"single match, run 1",name191,mentor191@email.com
+M085,name84,A59,A45,A44,B58,A08,MSc,,mentee84@email.com,,A59,"select from 2, run 1",name56,mentor56@email.com
+M086,name85,D03,D12,D09,D05,D06,MSc,,mentee85@email.com,,D12,"single match, run 1",name161,mentor161@email.com
+M088,name87,B15,B39,B45,B55,D04,MSc,,mentee87@email.com,,B55,"single match, run 2",name116,mentor116@email.com
+P001,name88,B39,B46,B47,B54,B17,PhD,徐聖修: 申請國家不熟悉（但願意跟學生聊領域相關問題）,mentee88@email.com,,B54,"single match, run 1",name115,mentor115@email.com
+P002,name89,B12,B04,B07,B16,B53,PhD,,mentee89@email.com,,B12,"single match, run 1",name75,mentor75@email.com
+P003,name90,A09,A13,C26,,A10,PhD,,mentee90@email.com,,A09,"single match, run 1",name8,mentor8@email.com
+P004,name91,B12,B04,B55,B38,B40,PhD,,mentee91@email.com,,B38,"single match, run 1",name99,mentor99@email.com
+P005,name92,A26,A23,A40,A33,A34,PhD,,mentee92@email.com,,A26,"select from 3, run 1",name23,mentor23@email.com
+P006,name93,B04,B16,B11,B32,B30,PhD,,mentee93@email.com,,B04,"select from 2, run 2",name67,mentor67@email.com
+P007,name94,E12,E01,A47,E25,E04,PhD,,mentee94@email.com,,E25,"single match, run 1",name194,mentor194@email.com
+P008,name95,A06,A56,A15,A58,A39,PhD,,mentee95@email.com,,A58,"single match, run 2",name55,mentor55@email.com
+P009,name96,E22,E18,A15,A57,A22,PhD,優先指導今年申請者,mentee96@email.com,,E18,"select from 2, run 1",name188,mentor188@email.com
+P010,name97,B59,B40,B42,B36,B43,PhD,,mentee97@email.com,,B59,"select from 2, run 1",name120,mentor120@email.com
+P011,name98,A13,B07,B46,B53,B54,PhD,徐聖修: 申請國家不熟悉（但願意跟學生聊領域相關問題）,mentee98@email.com,,A13,"select from 2, run 1",name12,mentor12@email.com
+P012,name99,C05,C04,C03,C10,C02,PhD,,mentee99@email.com,,C05,"select from 3, run 1",name125,mentor125@email.com
+P013,name100,E22,E01,E18,E25,E19,PhD,,mentee100@email.com,,E22,"single match, run 1",name192,mentor192@email.com
+P014,name101,B39,D20,B14,B21,B06,PhD,目前看不出來對申請的任何實際想法與行動,mentee101@email.com,,D20,"single match, run 1",name168,mentor168@email.com
+P015,name102,B18,A41,C16,D14,D18,PhD,,mentee102@email.com,,B18,"select from 3, run 1",name81,mentor81@email.com
+P016,name103,A56,A47,E12,,,PhD,,mentee103@email.com,,A56,"select from 2, run 1",name53,mentor53@email.com
+P017,name104,A07,A45,A28,A30,A29,PhD,,mentee104@email.com,,A07,"single match, run 1",name6,mentor6@email.com
+P018,name105,D04,D06,B05,D05,B23,PhD,,mentee105@email.com,,D04,"single match, run 1",name153,mentor153@email.com
+P019,name106,B55,B40,B31,B38,B44,PhD,,mentee106@email.com,,B55,"single match, run 1",name116,mentor116@email.com
+P020,name107,D12,A30,A42,A07,D11,PhD,,mentee107@email.com,,D12,"single match, run 1",name161,mentor161@email.com
+P021,name108,B40,B44,B16,B11,B20,PhD,,mentee108@email.com,,B16,"single match, run 1",name79,mentor79@email.com
+P022,name109,B12,B16,B54,B17,B43,PhD,,mentee109@email.com,,B17,"single match, run 1",name80,mentor80@email.com
+P023,name110,B20,B11,B14,B07,B12,PhD,,mentee110@email.com,,B20,"select from 3, run 1",name83,mentor83@email.com
+P024,name111,D18,B24,D10,B09,B21,PhD,,mentee111@email.com,,D18,"select from 4, run 1",name167,mentor167@email.com
+P025,name112,B03,B02,B04,B01,B06,PhD,個人資料提供不齊全、無CV,mentee112@email.com,,B06,"single match, run 1",name69,mentor69@email.com
+P026,name113,D06,D04,B39,B38,B37,PhD,,mentee113@email.com,,D06,"single match, run 1",name155,mentor155@email.com
+P027,name114,E07,E09,E02,E28,E35,PhD,,mentee114@email.com,,E07,"single match, run 1",name177,mentor177@email.com
+P028,name115,E35,E29,E28,E30,E27,PhD,,mentee115@email.com,,E29,"select from 2, run 2",name198,mentor198@email.com
+P029,name116,B19,B32,B45,B51,B13,PhD,,mentee116@email.com,,B13,"single match, run 1",name76,mentor76@email.com
+P030,name117,C14,D01,D02,E20,A64,PhD,,mentee117@email.com,,C14,"single match, run 1",name134,mentor134@email.com
+P031,name118,E11,E20,E08,E16,E31,PhD,,mentee118@email.com,,E11,"select from 2, run 1",name181,mentor181@email.com
+P032,name119,B30,B40,B43,B29,B42,PhD,,mentee119@email.com,,B30,"select from 2, run 1",name92,mentor92@email.com
+P033,name120,A10,A12,A06,A07,A14,PhD,,mentee120@email.com,,A10,"single match, run 1",name9,mentor9@email.com
+P034,name121,B44,B10,B27,B50,B07,PhD,,mentee121@email.com,,B10,"select from 2, run 1",name73,mentor73@email.com
+P035,name122,B40,B55,B41,B42,B31,PhD,,mentee122@email.com,,B55,"select from 2, run 1",name116,mentor116@email.com
+P036,name123,C07,C11,C09,C08,C12,PhD,,mentee123@email.com,,C07,"single match, run 1",name127,mentor127@email.com
+P037,name124,E35,E32,E01,E04,E26,PhD,,mentee124@email.com,,E35,"single match, run 1",name204,mentor204@email.com
+P038,name125,D01,D13,D03,D09,D22,PhD,,mentee125@email.com,,D01,"single match, run 1",name150,mentor150@email.com
+P039,name126,D06,D04,B45,B03,B32,PhD,,mentee126@email.com,,D06,"select from 3, run 1",name155,mentor155@email.com
+P040,name127,B07,B16,B04,B12,B08,PhD,,mentee127@email.com,,B07,"single match, run 1",name70,mentor70@email.com
+P042,name129,B42,B40,B16,B59,B46,PhD,,mentee129@email.com,,B42,"single match, run 1",name103,mentor103@email.com
+P043,name130,A37,A36,A35,A33,A34,PhD,,mentee130@email.com,,A37,"select from 2, run 1",name34,mentor34@email.com
+P045,name132,E06,E21,E18,E16,E35,PhD,,mentee132@email.com,,E06,"single match, run 1",name176,mentor176@email.com
+P046,name133,B03,B30,B11,B35,B32,PhD,,mentee133@email.com,,B03,"single match, run 1",name66,mentor66@email.com
+P047,name134,A05,A36,A40,A45,A44,PhD,,mentee134@email.com,,A05,"select from 3, run 1",name4,mentor4@email.com
+P048,name135,B19,B20,B26,B51,B52,PhD,,mentee135@email.com,,B26,"select from 3, run 1",name88,mentor88@email.com
+P049,name136,C02,E02,E07,E33,C07,PhD,,mentee136@email.com,,E33,"single match, run 1",name202,mentor202@email.com
+P050,name137,E07,E02,E08,E14,E15,PhD,,mentee137@email.com,,E07,"select from 3, run 1",name177,mentor177@email.com
+P051,name138,A55,A19,A64,A18,A02,PhD,,mentee138@email.com,,A19,"select from 2, run 1",name17,mentor17@email.com
+P052,name139,B01,B40,B42,B59,B48,PhD,,mentee139@email.com,,B42,"single match, run 1",name103,mentor103@email.com
+P053,name140,E07,E09,E08,C09,C08,PhD,,mentee140@email.com,,E08,"select from 2, run 1",name178,mentor178@email.com
+P054,name141,B40,B12,B46,B07,D16,PhD,,mentee141@email.com,,B40,"single match, run 1",name101,mentor101@email.com
+P055,name142,E32,E33,C17,C15,C16,PhD,,mentee142@email.com,,E32,"select from 3, run 1",name201,mentor201@email.com
+P056,name143,C02,C07,C12,C06,,PhD,,mentee143@email.com,,C02,"select from 2, run 1",name122,mentor122@email.com
+P057,name144,D01,D13,D09,D03,B54,PhD,,mentee144@email.com,,D03,"single match, run 2",name152,mentor152@email.com
+P058,name145,A12,A15,A08,A06,A13,PhD,,mentee145@email.com,,A12,"select from 2, run 1",name11,mentor11@email.com
+P059,name146,C22,C26,C13,C25,C27,PhD,,mentee146@email.com,,C22,"select from 2, run 1",name142,mentor142@email.com
+P060,name147,A55,A19,A02,A61,A64,PhD,,mentee147@email.com,,A55,"select from 2, run 1",name52,mentor52@email.com
+P061,name148,B40,B42,B43,B30,E25,PhD,,mentee148@email.com,,B40,"single match, run 1",name101,mentor101@email.com
+P062,name149,E02,E06,C03,C02,B31,PhD,,mentee149@email.com,,E02,"single match, run 1",name172,mentor172@email.com
+P063,name150,B38,B23,B15,B31,B40,PhD,,mentee150@email.com,,B38,"single match, run 1",name99,mentor99@email.com
+P064,name151,D11,D16,B07,B46,B54,PhD,,mentee151@email.com,,D11,"single match, run 1",name160,mentor160@email.com
+P065,name152,A30,A28,A29,A09,A12,PhD,,mentee152@email.com,,A30,"select from 3, run 1",name27,mentor27@email.com
+P066,name153,E12,E18,E11,E22,E17,PhD,,mentee153@email.com,,E18,"select from 2, run 1",name188,mentor188@email.com
+P067,name154,A34,A15,A32,A31,A62,PhD,,mentee154@email.com,,A32,"select from 2, run 1",name29,mentor29@email.com
+P068,name155,B40,B59,D17,B30,B12,PhD,,mentee155@email.com,,D17,"single match, run 1",name166,mentor166@email.com
+P069,name156,A33,A35,A37,A34,A36,PhD,,mentee156@email.com,,A33,"single match, run 1",name30,mentor30@email.com
+P070,name157,B39,B43,B42,B40,B41,PhD,,mentee157@email.com,,B43,"single match, run 1",name104,mentor104@email.com
+P071,name158,B12,D04,B07,B17,B04,PhD,,mentee158@email.com,,B17,"single match, run 1",name80,mentor80@email.com
+P072,name159,B31,B08,B23,D04,B20,PhD,,mentee159@email.com,,B31,"select from 2, run 1",name93,mentor93@email.com
+P073,name160,A09,A14,A15,A01,A11,PhD,,mentee160@email.com,,A15,"single match, run 1",name14,mentor14@email.com
+P074,name161,D07,D11,D12,D13,D05,PhD,,mentee161@email.com,,D07,"single match, run 1",name156,mentor156@email.com
+P075,name162,A11,A07,A10,A29,A14,PhD,,mentee162@email.com,,A11,"single match, run 1",name10,mentor10@email.com
+P076,name163,E01,E27,E19,E25,E26,PhD,,mentee163@email.com,,E27,"single match, run 1",name196,mentor196@email.com
+P077,name164,A01,A06,A12,A07,A11,PhD,,mentee164@email.com,,A01,"single match, run 1",name0,mentor0@email.com
+P078,name165,E01,E22,E25,E12,E19,PhD,,mentee165@email.com,,E22,"single match, run 1",name192,mentor192@email.com
+P079,name166,D16,D21,D13,D17,D22,PhD,,mentee166@email.com,,D21,"single match, run 1",name169,mentor169@email.com
+P080,name167,A15,A59,A58,E22,A57,PhD,,mentee167@email.com,,A15,"select from 3, run 1",name14,mentor14@email.com
+P081,name168,E25,E01,B46,E26,E22,PhD,,mentee168@email.com,,E25,"single match, run 1",name194,mentor194@email.com
+P082,name169,A09,B07,D16,B53,A15,PhD,,mentee169@email.com,,B53,"single match, run 2",name114,mentor114@email.com
+P083,name170,B53,D04,B03,B30,B23,PhD,"林素堇說""如果這些導生(陳育林&郭桂廷)後續有無法媒合到導師的狀況，可以再跟我聯絡，我視狀況看有沒有辦法多收一個",mentee170@email.com,,B23,"single match, run 1",name85,mentor85@email.com
+P084,name171,E12,,A13,,A47,PhD,,mentee171@email.com,,E12,"single match, run 1",name182,mentor182@email.com
+P085,name172,A02,E01,A18,A52,E16,PhD,,mentee172@email.com,,E16,"single match, run 2",name186,mentor186@email.com
+P086,name173,B07,B46,E05,B04,B12,PhD,,mentee173@email.com,,B07,"select from 3, run 1",name70,mentor70@email.com
+P087,name174,E20,E18,E17,E25,E23,PhD,,mentee174@email.com,,E20,"single match, run 1",name190,mentor190@email.com
+P088,name175,E09,C19,C27,E07,E05,PhD,,mentee175@email.com,,E09,"select from 2, run 1",name179,mentor179@email.com
+P089,name176,A02,A34,A03,A32,A64,PhD,,mentee176@email.com,,A02,"select from 2, run 1",name1,mentor1@email.com
+P090,name177,B15,B40,B38,B23,B39,PhD,,mentee177@email.com,,B15,"single match, run 1",name78,mentor78@email.com
+P091,name178,A52,A51,A53,A03,A04,PhD,,mentee178@email.com,,A52,"select from 4, run 1",name49,mentor49@email.com
+P092,name179,D04,B23,B08,B04,B11,PhD,,mentee179@email.com,,B23,"single match, run 1",name85,mentor85@email.com
+P093,name180,E01,E20,E25,E26,E22,PhD,,mentee180@email.com,,E26,"single match, run 1",name195,mentor195@email.com
+P094,name181,A01,A56,A40,A46,A64,PhD,,mentee181@email.com,,A40,"select from 2, run 2",name37,mentor37@email.com
+P095,name182,E09,B32,B07,A40,C09,PhD,,mentee182@email.com,,C09,"single match, run 1",name129,mentor129@email.com
+P096,name183,C20,C13,C21,C19,C17,PhD,,mentee183@email.com,,C13,"single match, run 1",name133,mentor133@email.com
+P097,name184,B40,D12,B03,D11,B42,PhD,,mentee184@email.com,,D12,"single match, run 1",name161,mentor161@email.com
+P098,name185,D02,D08,D13,B59,B36,PhD,,mentee185@email.com,,D02,"single match, run 1",name151,mentor151@email.com
+P099,name186,B45,B44,B05,B20,B23,PhD,,mentee186@email.com,,B05,"single match, run 1",name68,mentor68@email.com
+P100,name187,E14,E15,D17,,,PhD,,mentee187@email.com,,E14,"single match, run 1",name184,mentor184@email.com
+P101,name188,E17,E30,E18,E27,E23,PhD,,mentee188@email.com,,E17,"select from 2, run 1",name187,mentor187@email.com
+P102,name189,C22,C25,C20,C27,C21,PhD,,mentee189@email.com,,C25,"single match, run 1",name144,mentor144@email.com
+P103,name190,E33,E32,E34,E16,E02,PhD,,mentee190@email.com,,E33,"select from 2, run 1",name202,mentor202@email.com
+P104,name191,E22,E19,E01,E25,E30,PhD,,mentee191@email.com,,E19,"single match, run 1",name189,mentor189@email.com
+P105,name192,E02,E04,E09,C14,C09,PhD,無法提供同學參與計畫渴望獲得之目標資訊,mentee192@email.com,,E04,"single match, run 1",name174,mentor174@email.com
+P106,name193,E23,D13,E20,D02,C29,PhD,,mentee193@email.com,,C29,"single match, run 1",name148,mentor148@email.com
+P107,name194,B46,B53,B12,A57,D16,PhD,,mentee194@email.com,,B46,"single match, run 1",name107,mentor107@email.com
+P108,name195,D11,D07,D17,D15,D20,PhD,,mentee195@email.com,,D15,"single match, run 2",name164,mentor164@email.com
+P109,name196,A34,A35,A36,A39,A18,PhD,,mentee196@email.com,,A39,"select from 2, run 1",name36,mentor36@email.com
+P110,name197,D03,D05,D21,D04,D06,PhD,,mentee197@email.com,,D05,"single match, run 1",name154,mentor154@email.com
+P111,name198,B40,D16,B12,B07,B48,PhD,,mentee198@email.com,,B48,"single match, run 1",name109,mentor109@email.com
+P112,name199,C27,C26,C23,C19,C25,PhD,,mentee199@email.com,,C27,"select from 2, run 1",name146,mentor146@email.com
+P113,name200,A20,A47,A43,A67,E12,PhD,,mentee200@email.com,,A20,manually match with A20,name18,mentor18@email.com
+P114,name201,E08,E05,E16,E10,E15,PhD,,mentee201@email.com,,E05,"select from 3, run 1",name175,mentor175@email.com
+P115,name202,E30,E09,E28,E29,E05,PhD,,mentee202@email.com,,E28,"select from 2, run 1",name197,mentor197@email.com
+P116,name203,B56,B46,B53,E05,B59,PhD,,mentee203@email.com,,B46,"single match, run 2",name107,mentor107@email.com
+P117,name204,C21,B12,E05,B36,B07,PhD,,mentee204@email.com,,C21,"single match, run 1",name141,mentor141@email.com
+P118,name205,C30,D15,B14,E13,E21,PhD,,mentee205@email.com,,C30,"select from 2, run 1",name149,mentor149@email.com
+P119,name206,C11,C08,C10,C09,C12,PhD,,mentee206@email.com,,C11,"select from 2, run 1",name131,mentor131@email.com
+P120,name207,B39,B38,B15,B18,B37,PhD,,mentee207@email.com,,B39,"single match, run 1",name100,mentor100@email.com
+P121,name208,B27,B44,B40,B42,B14,PhD,,mentee208@email.com,,B27,"single match, run 1",name89,mentor89@email.com
+P122,name209,D07,D11,D12,,,PhD,,mentee209@email.com,,D07,"single match, run 1",name156,mentor156@email.com
+P123,name210,B45,B05,B44,B50,B10,PhD,,mentee210@email.com,,B45,"select from 2, run 1",name106,mentor106@email.com
+P124,name211,E14,E20,C18,E02,E03,PhD,,mentee211@email.com,,C18,"single match, run 1",name138,mentor138@email.com
+P125,name212,E01,E23,E30,E17,E22,PhD,,mentee212@email.com,,E01,"select from 2, run 1",name171,mentor171@email.com
+P126,name213,A01,A16,A07,A14,A06,PhD,,mentee213@email.com,,A14,"single match, run 1",name13,mentor13@email.com
+P127,name214,E12,E30,E13,E09,E01,PhD,,mentee214@email.com,,E12,"select from 2, run 1",name182,mentor182@email.com
+P128,name215,A12,A06,A10,A14,A11,PhD,,mentee215@email.com,,A06,"single match, run 1",name5,mentor5@email.com
+P129,name216,B40,B15,B24,C10,B42,PhD,,mentee216@email.com,,C10,"single match, run 2",name130,mentor130@email.com
+P130,name217,D16,B41,B59,B43,B42,PhD,,mentee217@email.com,,D16,"select from 2, run 1",name165,mentor165@email.com
+P131,name218,E02,E03,E09,E07,E32,PhD,無法提供同學參與計畫渴望獲得之目標資訊,mentee218@email.com,,E03,"single match, run 1",name173,mentor173@email.com
+P132,name219,E09,E30,E20,E12,E19,PhD,,mentee219@email.com,,E30,"single match, run 3",name199,mentor199@email.com
+P133,name220,A02,A62,A61,A40,A18,PhD,,mentee220@email.com,,A62,"select from 2, run 1",name59,mentor59@email.com
+P134,name221,B39,B21,B35,D04,B40,PhD,,mentee221@email.com,,B21,"select from 2, run 1",name84,mentor84@email.com
+P135,name222,D13,A42,D02,D01,D09,PhD,,mentee222@email.com,,D13,"select from 2, run 1",name162,mentor162@email.com
+P136,name223,B07,B54,B04,B12,B36,PhD,,mentee223@email.com,,B54,"select from 2, run 1",name115,mentor115@email.com
+P137,name224,B32,B39,B03,B53,B04,PhD,,mentee224@email.com,,B32,"single match, run 1",name94,mentor94@email.com
+P138,name225,B30,B46,B12,B59,E13,PhD,,mentee225@email.com,,E13,"single match, run 1",name183,mentor183@email.com
+P139,name226,C28,C20,C13,C25,C30,PhD,,mentee226@email.com,,C28,"select from 2, run 1",name147,mentor147@email.com
+P140,name227,A66,E11,E19,D13,D16,PhD,,mentee227@email.com,,A66,"single match, run 1",name62,mentor62@email.com
+P141,name228,D09,D01,D03,D22,D02,PhD,,mentee228@email.com,,D09,"select from 2, run 1",name158,mentor158@email.com
+P142,name229,B56,B19,B06,B03,B04,PhD,,mentee229@email.com,,B56,"select from 2, run 1",name117,mentor117@email.com
+P143,name230,B39,B06,B14,B21,B27,PhD,,mentee230@email.com,,B06,"single match, run 1",name69,mentor69@email.com
+P144,name231,C07,C12,C02,C11,C03,PhD,,mentee231@email.com,,C12,"single match, run 1",name132,mentor132@email.com
+P145,name232,D08,D04,B37,B08,B23,PhD,,mentee232@email.com,,D08,"select from 2, run 1",name157,mentor157@email.com
+P146,name233,B28,C11,B12,B38,B09,PhD,,mentee233@email.com,,B28,"single match, run 1",name90,mentor90@email.com
